@@ -4,6 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Baskin-Lazpberry&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+[![My github status](https://github-readme-stats.vercel.app/api?username=Baskin-Lazpberry&show_icons=true&hide_border=true)](https://github.com/Baskin-Lazpberry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baskin-Lazpberry&hide_border=true&layout=compact)](https://github.com/Baskin-Lazpberry)
 <!--
 **Baskin-Lazpberry/Baskin-Lazpberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
