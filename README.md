@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##### Roadmap Link(Notion): https://dandelion-orbit-312.notion.site/607f94932303469ba3bda78a95fca159?v=da2adc5026374180bc40480ccc22b163
-##### Resume Link(Github Pages) : https://baskin-lazpberry.github.io/Resume/
+##### Resume Link(Github Pages) : https://baskin-lazpberry.github.io/
 [![trophy](https://github-profile-trophy.vercel.app/?username=Baskin-Lazpberry&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
