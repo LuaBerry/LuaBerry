@@ -1,6 +1,6 @@
 ### Yeo Jeongin 👋
 
-Computer Software, HYU 19
+Sophomore, Computer Software, Hanyang Univ.
 
 ##### Roadmap Link(Notion): https://dandelion-orbit-312.notion.site/607f94932303469ba3bda78a95fca159?v=da2adc5026374180bc40480ccc22b163
 ##### Portfolio Link : https://baskin-lazpberry.herokuapp.com/
