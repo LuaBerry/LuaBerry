@@ -1,9 +1,8 @@
 ### Yeo Jeongin 👋
 
-Sophomore, Computer Software, Hanyang Univ.
+Junior, Computer Software, Hanyang Univ.
 
-##### Roadmap Link(Notion): https://dandelion-orbit-312.notion.site/607f94932303469ba3bda78a95fca159?v=da2adc5026374180bc40480ccc22b163
-##### Portfolio Link : https://baskin-lazpberry.herokuapp.com/
+##### Portfolio Link : https://luaberry.com/
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuaBerry&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
