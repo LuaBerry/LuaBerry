@@ -1,6 +1,6 @@
 ### Yeo Jeongin 👋
 
-Junior, Computer Software, Hanyang Univ.
+Senior, Computer Software, Hanyang Univ.
 
 ##### Portfolio Link : https://luaberry.com/
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuaBerry&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
