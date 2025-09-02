@@ -7,7 +7,7 @@ Senior, Computer Software, Hanyang Univ.
 
 
 [![My github status](https://github-readme-stats.vercel.app/api?username=LuaBerry&show_icons=true&hide_border=true)](https://github.com/Baskin-Lazpberry)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBerry&hide_border=true&layout=compact)](https://github.com/LuaBerry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBerry&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/LuaBerry)
 <!--
 **LuaBerry/LuaBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
