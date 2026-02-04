@@ -1,4 +1,4 @@
-### Leo (Jeongin) Yeo 👋
+### Jeongin (Leo) Yeo 👋
 
 Senior, Computer Software, Hanyang Univ.
 
