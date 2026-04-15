@@ -1,6 +1,6 @@
 ### Jeongin (Leo) Yeo 👋
 
-Senior, Computer Software, Hanyang Univ.
+Researcher, SSLab, Hanyang Univ.
 
 ##### Portfolio Link : https://luaberry.com/
 <!--
